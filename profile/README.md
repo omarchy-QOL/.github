@@ -4,6 +4,8 @@ Quality of life with opinions.
 
 Plugins that make Omarchy easier to use without blowing up your system.
 
+[Browse plugins, demos, and installation guides](https://omarchyqol.com/docs/)
+
 Around here, QoL means:
 
 - start with what Omarchy already ships instead of reinventing it
